@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Nikki. 👋
+#### I'm an independent UI/UX Product Designer ✏️ & Front-End Web Developer 👩🏻‍💻 based in Bristol, England 🎈🌉 who 💖s creating delightful User Experiences 🤗 built with Jamstack Technologies ⚡.
+
+### You can also find me on:
+- #### 💬 [Twitter](https://twitter.com/nikkipantony)
+- #### 👔 [LinkedIn](https://www.linkedin.com/in/nikki-pantony)
+- #### 🎁 [CodePen](https://codepen.io/nikkipantony)
 
 <!--
 **nikkipantony/nikkipantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
