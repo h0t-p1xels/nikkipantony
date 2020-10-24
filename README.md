@@ -48,6 +48,11 @@
   <div>
     <img align="left" alt="NPM" title="NPM" width="26px" src="https://unpkg.com/simple-icons@v3/icons/npm.svg" />
   </div>
+</div>
+
+<br/>
+
+<div>
   <div>
     <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" />
   </div>
