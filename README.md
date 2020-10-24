@@ -19,17 +19,9 @@
   </div>
 </div>
 
-<br />
-
 ## Tech Stack 
 
 <div>
-  <div>
-    <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" />
-  </div>
-  <div>
-    <img align="left" alt="NPM" title="NPM" width="26px" src="https://unpkg.com/simple-icons@v3/icons/npm.svg" />
-  </div>
   <div>
     <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
   </div>
@@ -51,3 +43,16 @@
   <div>
     <img align="left" alt="Sass" title="Sass" width="26px" src="https://unpkg.com/simple-icons@v3/icons/sass.svg" />
   </div>
+  <div>
+    <img align="left" alt="NPM" title="NPM" width="26px" src="https://unpkg.com/simple-icons@v3/icons/npm.svg" />
+  </div>
+  <div>
+    <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" />
+  </div>
+  <div>
+    <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
+  </div>
+  <div>
+    <img align="left" alt="Figma" title="Figma" width="26px" src="https://unpkg.com/simple-icons@v3/icons/figma.svg" />
+  </div>
+</div>
