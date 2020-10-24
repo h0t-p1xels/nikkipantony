@@ -19,7 +19,9 @@
   </div>
 </div>
 
-<br/>
+<br />
+
+##
 
 ## Tech Stack 
 
@@ -50,7 +52,7 @@
   </div>
 </div>
 
-<br/>
+#####
 
 <div>
   <div>
@@ -78,3 +80,7 @@
     <img align="left" alt="Affinity Photo" title="Affinity Photo" width="26px" src="https://unpkg.com/simple-icons@v3/icons/affinityphoto.svg" />
   </div>
 </div>
+
+<br />
+
+##
