@@ -19,6 +19,8 @@
   </div>
 </div>
 
+<br/>
+
 ## Tech Stack 
 
 <div>
@@ -53,6 +55,21 @@
     <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
   </div>
   <div>
+    <img align="left" alt="Serverless" title="Serverless" width="26px" src="https://unpkg.com/simple-icons@v3/icons/serverless.svg" />
+  </div>
+  <div>
+    <img align="left" alt="Vercel" title="Vercel" width="26px" src="https://unpkg.com/simple-icons@v3/icons/vercel.svg" />
+  </div>
+  <div>
+    <img align="left" alt="Netlify" title="Netlify" width="26px" src="https://unpkg.com/simple-icons@v3/icons/netlify.svg" />
+  </div>
+  <div>
     <img align="left" alt="Figma" title="Figma" width="26px" src="https://unpkg.com/simple-icons@v3/icons/figma.svg" />
+  </div>
+  <div>
+    <img align="left" alt="Affinity Designer" title="Affinity Designer" width="26px" src="https://unpkg.com/simple-icons@v3/icons/affinitydesigner.svg" />
+  </div>
+  <div>
+    <img align="left" alt="Affinity Photo" title="Affinity Photo" width="26px" src="https://unpkg.com/simple-icons@v3/icons/affinityphoto.svg" />
   </div>
 </div>
