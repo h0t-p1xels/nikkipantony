@@ -23,7 +23,7 @@
 
 ##
 
-## TOOLS & Stack 
+## Tools & Stack 
 
 <div>
   <div>
