@@ -5,7 +5,8 @@
 
 # Hi, I'm Nikki. 👋
 ### I'm an independent UI/UX Product Designer ✏️ & Front-End Web Developer 👩🏻‍💻 <br /> that 💖s creating delightful User Experiences 🤗 built with Jamstack Technologies ⚡.
-#
+
+---
 
 <div>
   <div>
@@ -25,4 +26,4 @@
   </div>
 </div>
 
-#
+---
