@@ -6,8 +6,8 @@
 -->
 
 # Hi, I'm Nikki. 👋
-**I'm an independent UI/UX Product Designer ✏️ & Front-End Web Developer 👩🏻‍💻 <br /> that 💖s creating delightful User Experiences 🤗 built with Jamstack Technologies ⚡.**
-
+**I'm the Founder of <a href="https://remoteprint.co" target="_blank" rel="noreferrer" >RemotePrint</a> & an independent UI/UX Product Designer and Front-End Web Developer.**
+            
 <br />
 
 <div>
