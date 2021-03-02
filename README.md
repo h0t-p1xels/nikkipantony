@@ -6,7 +6,7 @@
 -->
 
 # Hi, I'm Nikki. 👋
-**I'm the Founder of <a href="https://remoteprint.co" target="_blank" rel="noreferrer" >RemotePrint</a> & an independent UI/UX Product Designer and Front-End Web Developer.**
+**I'm the Founder of <a href="https://remoteprint.co" target="_blank" rel="noreferrer" >RemotePrint</a> & an Independent UI/UX Product Designer and Front-End Web Developer.**
             
 <br />
 
