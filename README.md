@@ -6,7 +6,7 @@
 -->
 
 # Hi, I'm Nikki. 👋
-**UX Product Designer, Front-End (Jamstack) Developer & soon to be Founder**
+**Digital Product Designer, Jamstack Web Developer & soon to be Founder**
             
 <br />
 
